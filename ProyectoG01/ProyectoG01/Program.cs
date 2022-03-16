@@ -7,7 +7,7 @@ namespace ProyectoG01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Nueva linea añadida.");
+            Console.WriteLine("Nueva linea añadida por Nanxi");
         }
     }
 }
