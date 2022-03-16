@@ -8,6 +8,8 @@ namespace ProyectoG01
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Nueva linea añadida.");
+
+            Console.WriteLine("Linea olvidada sin subir a local ");
         }
     }
 }
